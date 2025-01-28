@@ -2,7 +2,7 @@
 
 ## Projektbeskrivelse
 
-Dette projekt omhandler en redesign af hjemmesiden for Katholt Børnehave og SFO. Formålet med projektet var at skabe en brugervenlig og visuelt tiltalende hjemmeside, der imødekommer behovene hos to primære målgrupper:
+Dette projekt omhandler en redesign af hjemmesiden for Katholt Børnehave. Formålet med projektet var at skabe en brugervenlig og visuelt tiltalende hjemmeside, der imødekommer behovene hos to primære målgrupper:
 
 1. Forældre, der ønsker at tilmelde deres børn.
 2. Forældre til allerede tilmeldte børn.
